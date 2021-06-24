@@ -1,0 +1,56 @@
+{
+  "uid" : "11469b3b60f555db",
+  "name" : "testlink",
+  "fullName" : "ast.testlink",
+  "historyId" : "9e749a4d3b37fd9e5a79a4fcd4af5a69",
+  "time" : {
+    "start" : 1624539891742,
+    "stop" : 1624539893101,
+    "duration" : 1359
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ast"
+  }, {
+    "name" : "testMethod",
+    "value" : "testlink"
+  }, {
+    "name" : "suite",
+    "value" : "ast"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-B4S9EGR"
+  }, {
+    "name" : "thread",
+    "value" : "4344@DESKTOP-B4S9EGR.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11469b3b60f555db.json",
+  "parameterValues" : [ ]
+}
